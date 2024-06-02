@@ -1,0 +1,11 @@
+userid,password,role,rig
+om1,123,om,r1
+om1,123,om,r2
+om1,123,om,r3
+im1,123,im,r1
+im2,123,im,r2
+im3,123,im,r3
+sir1,123,si,r1
+sir2,123,si,r2
+sir3,123,si,r3
+om2,123,om,r4
